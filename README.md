@@ -1,4 +1,4 @@
-<h1>Aiden's World (UX Menu)</h1>
+<h1>Aiden's World (Menu System)</h1>
 
 <img width="720" height="370" alt="AidensWorldSplashScreen" src="https://github.com/user-attachments/assets/faa31bf5-8ffa-4c57-9457-5ad3a7670490" />
 
