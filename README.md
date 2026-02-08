@@ -16,6 +16,7 @@ https://github.com/user-attachments/assets/7a7c3918-1dbe-4e9e-b9d8-f483ce4f7117
   <li><a href="https://www.linkedin.com/in/mike-stavrovskyi/">Mike</a></li>
   <li><a href="https://www.linkedin.com/in/blai-morales/">Blai</a></li>
   <li><a href="https://www.linkedin.com/in/dani-capelleras-462b5b253/">Dani</a></li>
+  <li><a href="https://www.linkedin.com/in/carles-jimenez-girbau/">Carles</a></li>
   <li><a href="https://www.linkedin.com/in/ghostlyjuna/">Júlia</a></li>
   <li><a href="https://www.linkedin.com/in/laura-rodr%C3%ADguez-galan-a92ab5269/">Lala</a></li>
   <li><a href="https://www.linkedin.com/in/josep-sola/">Josep</a></li>
